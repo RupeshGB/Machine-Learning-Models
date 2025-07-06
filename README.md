@@ -1,7 +1,7 @@
 
 # 🧠 Image Classifier – CNN with PyTorch
 
-This project is a convolutional neural network (CNN) built from scratch using **PyTorch**, designed to classify images into multiple categories. It demonstrates the full deep learning workflow: data preprocessing, model architecture design, training, evaluation, and performance visualization.
+A simple machine learning project that fits a linear regression model to a dataset and visualizes the results. It plots the data points, the best-fit line, and highlights the model’s performance using metrics like Mean Squared Error (MSE) and R² score. Built with Python using libraries like scikit-learn, matplotlib, and numpy. 
 
 🚀 **What It Does**
 - Preprocesses image data with normalization and transformation
