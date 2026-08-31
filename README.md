@@ -3,9 +3,8 @@
 
 A simple machine learning project that fits a linear regression model to a dataset and visualizes the results. It plots the data points, the best-fit line, and highlights the model’s performance using metrics like Mean Squared Error (MSE) and R² score. Built with Python using libraries like scikit-learn, matplotlib, and numpy. 
 
-These models can be used to solve common real-world problems, such as:
-
-Predicting Prices → Estimate house prices, rent, sales, or other costs.
+**These models can be used to solve common real-world problems**
+- Predicting Prices → Estimate house prices, rent, sales, or other costs.
 - Making Decisions → Identify potential fraud, customer churn, or loan risks.
 - Sorting Information → Automatically organize emails, customer requests, or documents.
 - Finding Patterns → Discover important trends in large amounts of data.
@@ -19,7 +18,7 @@ Predicting Prices → Estimate house prices, rent, sales, or other costs.
 - Evaluates model accuracy and visualizes predictions
 - Saves and loads models for future use
 
-🔍 **Key Features**
+ **Key Features**
 - Custom PyTorch CNN implementation  
 - Training and testing loops with detailed metrics  
 - Model checkpointing and reproducibility  
